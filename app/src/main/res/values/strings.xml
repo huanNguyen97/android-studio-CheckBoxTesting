@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CheckBoxExmaple</string>
+
+    <!-- Dev Declare Var -->
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+    <string name="php">PHP</string>
+    <string name="csharp">C#</string>
+    <string name="javascript">Javascript</string>
+    <!-- Ending Dev -->
+</resources>
